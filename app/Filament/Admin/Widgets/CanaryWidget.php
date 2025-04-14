@@ -25,7 +25,7 @@ class CanaryWidget extends Widget
                 CreateAction::make()
                     ->label(trans('admin/dashboard.sections.intro-developers.button_issues'))
                     ->icon('tabler-brand-github')
-                    ->url('https://github.com/pelican-dev/panel/issues', true),
+                    ->url('https://github.com/batv45/pelican-panel/issues', true),
             ],
         ];
     }

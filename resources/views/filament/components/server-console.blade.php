@@ -28,6 +28,9 @@
                 wire:keydown.enter="enter"
                 wire:keydown.up.prevent="up"
                 wire:keydown.down="down"
+                autocomplete="off"
+                autocorrect="off"
+                autocapitalize="off"
             >
         </div>
     @endif
